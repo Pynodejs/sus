@@ -1,0 +1,15 @@
+{
+  "proxies": "socks4",
+  "thread": "1000",
+
+  "unchecked": {
+    "url": "https://discord.com/api/webhooks/1357122344971141120/KVWx4U7rYDf-uYzn3K3D0LYFE-D2DwClxe7JT9l5SxoFxg1pML2yFodi4A5kmGT3rk9P",
+    "username": "Nitro Unchecked",
+    "avatar": "https://cdn.discordapp.com/avatars/851905439809142856/6b09c26b7194e3aa7c84b7505a36a13e.webp?size=128"
+  },
+  "valid": {
+    "url": "https://discord.com/api/webhooks/1357122538727149750/W8TRe6rrr9Pn9kU_Sp3af08iqq-z2NbtliTTSuzuCMRdqNVfA0G-TPqi7ioSEoPtNu7y",
+    "username": "Nitro Valid",
+    "avatar": "https://cdn.discordapp.com/avatars/851905439809142856/6b09c26b7194e3aa7c84b7505a36a13e.webp?size=128"
+  }
+}
